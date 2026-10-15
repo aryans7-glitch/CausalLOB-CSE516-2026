@@ -1,14 +1,14 @@
-# Data
+## Dataset
 
-The project uses the FI-2010 Limit Order Book dataset,
-NoAuction, Decimal Precision representation.
+This project uses the FI-2010 Limit Order Book benchmark dataset.
 
-The full dataset is not stored directly in this GitHub repository because of size.
+Official dataset:
+https://etsin.fairdata.fi/dataset/73eb48d7-4dbc-4a10-a52a-da745b47a649
 
-The M2 code documents the download/preparation procedure and reconstructs
-the leakage-safe modelling variables used in CausalLOB.
-
-Expected canonical observations: 394,337.
-
-Important preprocessing rule:
-temporal lags must never cross day/security sequence boundaries.
+Configuration used in this project:
+- NoAuction
+- Decimal Precision
+- 10 trading days
+- 5 stocks
+- rows 1–40 used for raw LOB features
+- rows 145–149 contain the published prediction-horizon labels
