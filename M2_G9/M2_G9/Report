@@ -1,0 +1,4 @@
+M2 Technical Report — CausalLOB
+This report documents the technical foundation completed in Milestone 2 for my individual CSE 516 project. 
+It covers the FI-2010 data pipeline, the final 39-parent-slot Dynamic Bayesian Network, LPCMCI-based structure learning, parameter learning for the frozen DBN, exact and approximate probabilistic inference under partial observation, the AR(5) baseline, and the first M2 KPI results.
+The report also explains the conditional-independence assumptions, model factorization, SOTA positioning, limitations, and the handoff to M3.
