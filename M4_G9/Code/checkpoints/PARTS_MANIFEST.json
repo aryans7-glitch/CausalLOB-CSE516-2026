@@ -1,0 +1,63 @@
+{
+  "file": "CausalLOB_FROZEN_REPRO_EXPORT.zip",
+  "size_bytes": 201392753,
+  "sha256": "f8ca4d6e25ef48fd1265af349cb354e0291f063b541b4c58b9009b5563889f22",
+  "parts": [
+    {
+      "name": "CausalLOB_original_checkpoints.part01",
+      "size_bytes": 18874368,
+      "sha256": "18d7565d549ac30a66231562f76f3df7ff4ae15aad65e3a1538c2c67a4755b1e"
+    },
+    {
+      "name": "CausalLOB_original_checkpoints.part02",
+      "size_bytes": 18874368,
+      "sha256": "c9c0348eaabb7d60bc2c1a5172ffe3400f9f6316bcd4b9ea7b131afe195f32a9"
+    },
+    {
+      "name": "CausalLOB_original_checkpoints.part03",
+      "size_bytes": 18874368,
+      "sha256": "bc54b28f53881415f642b4124ea333a0595efda0642670da26971c2fe3d307fb"
+    },
+    {
+      "name": "CausalLOB_original_checkpoints.part04",
+      "size_bytes": 18874368,
+      "sha256": "a52f239d6012fd835e75cd2c440b45229679c055e8444f6244452ecec9d040af"
+    },
+    {
+      "name": "CausalLOB_original_checkpoints.part05",
+      "size_bytes": 18874368,
+      "sha256": "08092b754464dae5e1ec3577d456765353a88d67487fbb101f6dbdbeb629a1cd"
+    },
+    {
+      "name": "CausalLOB_original_checkpoints.part06",
+      "size_bytes": 18874368,
+      "sha256": "79ee9479c08b16aa3fee438bc20314187e643b7201bd781dfef33d1f0e980c7e"
+    },
+    {
+      "name": "CausalLOB_original_checkpoints.part07",
+      "size_bytes": 18874368,
+      "sha256": "deb2ef0c1b7e93e6521b8f78fa64aa8013b8ea8939249dc94fb507cc4ea10122"
+    },
+    {
+      "name": "CausalLOB_original_checkpoints.part08",
+      "size_bytes": 18874368,
+      "sha256": "f39682465407aecb44a3eafc7c9d0641563ae0ab6b3bd4c15502701d150b8792"
+    },
+    {
+      "name": "CausalLOB_original_checkpoints.part09",
+      "size_bytes": 18874368,
+      "sha256": "79d74810298ece5ecac4daf8a9b1f8089d50db7c540cbd132e8f0f701d042e57"
+    },
+    {
+      "name": "CausalLOB_original_checkpoints.part10",
+      "size_bytes": 18874368,
+      "sha256": "479cfc6688a95dc2970e0adb1c3ba694e3e2596435e64c2bc081f47dcbd1b017"
+    },
+    {
+      "name": "CausalLOB_original_checkpoints.part11",
+      "size_bytes": 12649073,
+      "sha256": "918c8ab583f7b70aa36b9daf9046ec05bdcf994fcac1771506bd44ba73158c8d"
+    }
+  ],
+  "part_size_max_bytes": 18874368
+}
