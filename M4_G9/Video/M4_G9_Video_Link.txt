@@ -1,0 +1,15 @@
+CausalLOB — CSE 516 Milestone 4
+Final Technical Video Walkthrough
+
+Video Link:
+https://drive.google.com/file/d/1ktMFtXveObhoI9vIiDPsOpNRJl1FxBGt/view?usp=drive_link
+
+Contents:
+- Research question and motivation
+- Probabilistic graphical representation
+- Structure and parameter learning
+- Bayesian inference
+- Experimental design and baseline comparisons
+- Statistical evaluation and robustness
+- SOTA positioning and conclusions
+- GitHub reproducibility walkthrough
