@@ -1,0 +1,7 @@
+missing_state_scenario,RMSE_AR5_minus_sparse,jointNLL_AR5_minus_sparse,gain_in_abs90coverage_error
+L1 imbalance,0.0,0.0,0.0
+OFI proxy,0.000332,0.000661,-0.000115
+Both imbalances,0.0,0.0,0.0
+Liquidity,-0.000207,-0.000438,0.000672
+Return + OFI,0.004752,0.013698,-0.005984
+History only,0.002209,0.013261,-0.001771

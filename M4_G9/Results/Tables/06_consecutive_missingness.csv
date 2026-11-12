@@ -1,0 +1,13 @@
+scenario,gap_representation_steps,horizon_events,prior_minus_DBN_logloss
+Return + OFI,1,10,-0.182523
+Return + OFI,1,20,-0.086164
+Return + OFI,5,10,-0.180089
+Return + OFI,5,20,-0.084771
+Return + OFI,20,10,-0.180074
+Return + OFI,20,20,-0.084697
+History only,1,10,-0.181718
+History only,1,20,-0.078269
+History only,5,10,-0.18356
+History only,5,20,-0.0863
+History only,20,10,-0.183964
+History only,20,20,-0.089885

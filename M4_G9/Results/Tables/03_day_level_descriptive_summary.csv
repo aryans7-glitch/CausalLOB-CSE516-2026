@@ -1,0 +1,6 @@
+horizon_events,days_deeplob_better,min_daily_logloss_advantage,max_daily_logloss_advantage,unweighted_mean_daily_advantage
+10,3,0.014643,0.057067,0.039673
+20,3,0.036216,0.087854,0.063723
+30,3,0.293808,0.355596,0.329434
+50,3,0.460195,0.543403,0.503223
+100,3,0.455705,0.645014,0.560615
